@@ -13,3 +13,5 @@ We’re iterating here through the following policies:
 - [Data Retention Policy](./data-retention-policy.md)
 - [Customer Personal Data](./customer-personal-data.md)
 - [Third Parties](./third-parties.md)
+
+If you have any questions or comments on any of this, please feel free to issue a pull request, raise an issue or let us know directly at [support@tito.io](mailto:support@tito.io).
