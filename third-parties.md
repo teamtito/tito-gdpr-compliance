@@ -29,6 +29,9 @@ Hubspot allows us to measure the effectiveness of articles and blog posts and ma
 
 ## Other Services that may store some personal information
 
+- Papertrail
+- Apple (for Apple Pay/Apple Wallet)
+- Gravatar?
 - Google Apps
   - Google Analytics
   - Google Docs
