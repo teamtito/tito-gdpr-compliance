@@ -1,4 +1,4 @@
-General Terms and Conditions
+# Tito General Terms of Service
 
 ## 1. Definitions
 
