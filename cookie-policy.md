@@ -12,7 +12,7 @@ These cookies are set by the application software that we use to host the site (
 
 Google Analytics cookies are used to measure visitors to the site.
 
-### Hubspot
+### Hubspot
 
 Hubspot is used to track folks who view our marketing pages and subsequently become customers, in order to measure the effectiveness of our marketing campaigns.
 
