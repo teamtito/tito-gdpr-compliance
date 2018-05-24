@@ -1,309 +1,286 @@
 # Tito General Terms of Service
 
-## 1. Definitions
+Please read these terms carefully before proceeding any further. These terms tell you who we are, how we will provide our services to you, how a contract comes into existence between us, and other important information. If you think that there is a mistake in these terms, please contact us to discuss. 
 
-- 1.1 The definitions and rules of interpretation in this Clause apply in this Agreement.
-  - “Affiliate” means with respect to the Customer, any subsidiary or holding company of the Customer, or any subsidiary or holding company of any such holding company;
-  - “Agreement” the Order Form, these General Terms and Conditions and attached schedules as well as any document referred to therein; 
-  - “Authorised Users”, those employees, agents and independent contractors of the Customer who are authorised by the Customer to use the Services and the Content;
-  - “Business Day”, any day which is not a Saturday, Sunday or public/bank holiday in Ireland;
-  - “Commencement Date”, the date set out in the Order Form;
-  - “Confidential Information”, means all information obtained by one party from the other pursuant to the Agreement which is expressly marked as confidential or which is confirmed in writing to be confidential within 7 days of its disclosure or which is manifestly of a confidential nature including the terms of this Agreement, the Services, the Content, any Consultancy Services and any other materials provided pursuant to this Agreement;
-  - “Content” means the content accessed electronically by the Customer as part of the Services, including all text, graphics, images, audio, video, information or other materials available through the Tito platform;
-  - “controller”, “data subject”, “personal data”, “processor”, “processing” and "supervisory authority" shall have the meanings ascribed to them in the GDPR;
-  - “Customer Content”, the data and content, including but not limited to Customer Personal Data and files, images and text, inputted and/or provided by the Customer, Authorised Users, or Tito on the Customer's behalf for the purpose of using the Services or facilitating the Customer’s use of the Services;
-  - “Customer Personal Data”, means personal data received by Tito from or on behalf of the Customer in connection with the performance of the Services, as set out in Schedule 2;
-  - “Data Protection Legislation” means all laws relating to the processing of personal data, privacy and security including, without limitation, the EU Data Protection Directive 95/46/EC, the Data Protection Acts 1988 and 2003 (as may be amended or replaced from time to time), the Privacy and Electronic Communications Directive 2009/136/EC and on their coming into force, the General Data Protection Regulation (EU) 2016/679 (the “GDPR”), and where the context so requires, equivalent, amendment, replacement or superseding legislation of any applicable jurisdiction, delegated legislation or other national data protection legislation;
-  - “Fees”, the fees payable by the Customer to Tito, as set out in the Order Form;
-  - “Initial Subscription Term”, the initial term of this Agreement as set out in Order Form;
-  - “Intellectual Property Rights” means all intellectual property of whatever nature anywhere in the world and the rights subsisting therein, including, without prejudice to the generality of the foregoing: discoveries; inventions; improvements; designs; processes; research; know-how; confidential and proprietary knowledge and information and any rights protecting same; works of authorship; computer software; databases; database rights; performances; trade or business names; domain names; patents, utility models and short term patents (and applications for same); trade marks and trade mark applications; rights (registered or unregistered and applications for same) in any design;  copyright (including rights in computer software and semi-conductor topographies); business goodwill and reputation and rights protecting same; rights of use of allocated telephone numbers and all intellectual property rights and forms of protection of a similar nature to any of the foregoing or having equivalent effect anywhere in the world;
-  - “Licence” means the licence of the Content as described in Clause 2.1;
-  - “Normal Business Hours”, 09.00 to 17.00 local Irish time, each Business Day;
-  - “Order Form”, the Tito standard subscription order form signed by Tito and the Customer;
-  - “Renewal Period”, the period set out in the Order Form and described in Clause 12.1;
-  - “Security Breach”, the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to the Customer Personal Data;
-  - “Services”, the subscription services provided by Tito to the Customer under this Agreement via the Tito website or any other website notified to the Customer by Tito from time to time;
-  - “SLA”, the standard Tito service level agreement as set out in Schedule 1;
-  - “Subscription Term”, has the meaning given in Clause 12.1 (being the Initial Subscription Term together with any subsequent Renewal Periods); and
-  - “Support Services Policy”, Tito's policy for providing support in relation to the Services as set out in the SLA.
+## 1.  WHO WE ARE AND HOW TO CONTACT US
 
-- 1.2 References to section headings and captions to the Clauses in this Agreement are for convenience of reference only and shall not be considered a part of or affect the interpretation of this Agreement.
+- 1.1.  We are Team Tito Limited ("Tito", "our", "us" and "we") of Unit 2, 64 Dame Street, Dublin 2.  We are a registered company in Ireland with company registration number 566334.
+- 1.2.  You can contact us by sending an email to support@tito.io.  When we contact you we will use the contact details that you have provided us.
 
-- 1.3 References to a statute or statutory provision includes any consolidation, re-enactment, modification or replacement of the same, any statute or statutory provision of which it is a consolidation, re-enactment or replacement of and any subordinate legislation in force under any of the same from time to time.
 
-- 1.4 References to a document include a reference to that document as amended.\
+## 2.  THESE TERMS
 
-- 1.5 Words in the singular include the plural and vice versa and words denoting a gender denote all genders. References to persons include legal and natural persons.
+- 2.1.  The following terms and conditions, together with our [Privacy Statement](https://ti.to/privacy)  and our [Cookies Policy](https://github.com/teamtito/tito-gdpr-compliance/blob/master/cookie-policy.md)  (collectively, these "Terms"), govern your access to and use of ti.to (the "Website"), any and all text, graphics, images, audio, video, information and other materials available through the Website (together "Content"), functionality, and the services offered on and through the Website, apart from our subscription services, which are covered in our Subscription Terms. These Terms are entered into by and between you and Tito.
 
-- 1.6 Any phrase introduced by the terms “including”, “include”, “in particular” or any similar expression shall be construed as illustrative and shall not limit the sense of the words preceding those terms.
+- 2.2.  In order to enjoy the services provided on our Website (“Services”), you must read and accept these Terms. By clicking "I accept", you indicate your acceptance of these Terms. If you do not want to agree to these Terms, you should not access or use the Website or Services.
 
-- 1.7 A reference to a regulator or to a regulatory board shall include any replacement or successor bodies from time to time.
+- 2.3.  If you are accessing and using the Website on someone else’s behalf, you represent that you have the authority to bind that person as the principal to these Terms, and to the extent you do not have such authority you agree to be bound to these Terms and to accept liability for harm caused by any wrongful use of the Website resulting from such access or use.  In such a scenario, the words "you" and "your" when used in these Terms will apply to the person on whose behalf you are acting as well as you as an individual as appropriate.
 
-## 2.  Services and Content
+- 2.4.  If you are using our Services on behalf of a corporate entity or organisation, then you agree to these Terms on behalf of that corporate entity or organisation and its affiliates and you represent that you have the authority to do so.  In such a scenario, the words "you" and "your" when used in these Terms will apply to your or organisation and its affiliates as well as you as an individual as appropriate.
 
-- 2.1 In consideration of the Subscription Fees, Tito agrees to provide the Services to the Customer in accordance with this Agreement and grants the Customer a non-exclusive, non-transferable, non-sublicensable, licence to the Content for its internal business purposes.
+- 2.5.  We may modify these Terms from time to time to reflect changes in market conditions affecting our business, changes in our business, changes in payment methods, changes in technology, changes in relevant laws and regulatory requirements and changes in our system.  If we do so we will notify you by email to the email address you have provided us with, however we are not obliged to, and such modification shall be effective upon our posting of the revised Terms on the Website. You agree to be bound by and changes to these Terms when you use our Website and Services after any such modification is posted on the Website. It is therefore important that you review these Terms regularly to ensure you are updated as to any changes.
 
-- 2.2 The Customer shall not access, store, distribute or transmit any viruses, or any material, including but not limited to the Customer Content, during the course of its use of the Services that:
+- 2.6.  These Terms apply to the order and supply of Services by us to you. They apply to the exclusion of any other terms that you seek to impose or incorporate, or which are implied by trade, custom, practice or course of dealing.
 
-  - 2.2.1 is unlawful, harmful, threatening, defamatory, obscene, infringing, harassing or racially or ethnically offensive;
-  - 2.2.2 facilitates illegal activity;
-  - 2.2.3 depicts sexually explicit images;
-  - 2.2.4 promotes unlawful violence;
-  - 2.2.5 is discriminatory based on race, gender, colour, religious belief, sexual orientation, disability; or
-  - 2.2.6 in a manner that is otherwise illegal or causes damage or injury to any person or property,
-and Tito reserves the right, without liability or prejudice to its other rights to the Customer, to disable the Customer's access to any material that breaches the provisions of this Clause 2.2.
-  - 2.3 Save as expressly set out in this Agreement or as otherwise permitted by law, the Customer may not make any communication, display or performance to the public of the Content or otherwise disseminate, sell, give away, hire, lease, offer or expose for sale or distribute the Content.
-  - 2.4 The Customer shall be responsible for all use of such login and password details and will ensure that all login and password details are kept secure and confidential at all times and will not disclose them to any third parties who are not authorised by Tito to use them.
-  - 2.5 The Customer shall use all reasonable endeavours to prevent any unauthorised access to, or use of, the Services and/or the Content and, in the event of any such unauthorised access or use, promptly notify Tito.
-  - 2.6 The rights provided under this Clause 2 are granted to the Customer only, and shall not be considered granted to any Affiliate of the Customer.
 
-- 2.7 The Content, the Services and any Consultancy Services are provided “as is” and Tito hereby disclaims all warranties, either express or implied, including but not limited to implied warranties/conditions of accuracy, merchantability and fitness for a particular purpose or any other warranties or conditions implied by applicable law, with respect to the Content, the Services and any Consultancy Services. Tito does not warrant or undertake that the Services, any Consultancy Services or any other materials provided pursuant to this Agreement will meet the Customer’s requirements or that they or their access or use will be uninterrupted, free from viruses, bug or error or completely secure. Except as expressly provided in this Agreement, the entire risk as to the products, the Services, any Consultancy Services and any other materials provided by Tito is with the Customer, including for quality and performance and for accuracy or quality of any information transmitted, received or otherwise delivered via the Services.
+## 3.  INTERPRETATION
 
-- 2.8 All information provided to the Customer through the Services, Content or on the Tito website is provided only as of the date published, and may be superseded by subsequent events or for other reasons. 
+- 3.1.  Section headings and captions in these Terms are for convenience of reference only and shall not be considered a part of or affect the interpretation of these Terms.
 
-- 2.9 Information provided through the Services or on the Tito website is subject to change. Tito may amend, update, suspend or delete any information in the content without notice at any time and at its sole discretion.
+- 3.2.  References to a statute or statutory provision includes any consolidation, re-enactment, modification or replacement of the same, any statute or statutory provision of which it is a consolidation, re-enactment or replacement of and any subordinate legislation in force under any of the same from time to time.
 
-## 3.  Services
+- 3.3.  References to a document include a reference to that document as amended.
 
-- 3.1 Tito shall, during the Subscription Term, provide the Services to the Customer on and subject to the terms of this Agreement.
-- 3.2 Tito shall use commercially reasonable endeavours to make the Services available for the Service Hours and Service Availability set out in the SLA, except for:
-  - 3.2.1 up to three (3) hours of planned maintenance per week; and
-  - 3.2.2 unscheduled maintenance performed during a mutually agreed time, provided that Tito has used reasonable endeavours to give the Customer at least 24 hours notice in advance.
-  - 3.3 Tito will, as part of the Services, provide the Customer with the support services set out in the SLA during Normal Business Hours in accordance with Tito's Support Services Policy in effect at the time that the Services are provided.  Tito may amend the Support Services Policy in its sole and absolute discretion from time to time. The Customer may purchase enhanced support services separately at Tito’s then current rates.
+- 3.4.  Words in the singular include the plural and vice versa and words denoting a gender denote all genders. References to persons include legal and natural persons.
 
-## 4.  Customer Content
+- 3.5.  Any phrase introduced by the terms “including”, “include”, “in particular” or any similar expression shall be construed as illustrative and shall not limit the sense of the words preceding those terms.
 
-- 4.1 The Customer shall own all right, title and interest in and to all of the Customer Content and shall have sole responsibility for and hereby warrants the legality, reliability, integrity, accuracy and quality of the Customer Content.
+- 3.6.  A reference to a regulator or to a regulatory board shall include any replacement or successor bodies from time to time.
 
-- 4.2 The Customer grants Tito a non-exclusive, royalty free licence for the Subscription Term to use the Customer Content for the purposes of providing the Services and/or any Consultancy Services.
 
-- 4.3 Tito shall follow its standard archiving procedures for Customer Content.  In the event of any loss or damage to Customer Content, the Customer's sole and exclusive remedy shall be for Tito to use reasonable commercial endeavours to restore the lost or damaged Customer Content from the latest back-up of such Customer Content maintained by Tito in accordance with its archiving procedure.  Tito shall not be responsible for any loss, destruction, alteration or disclosure of Customer Content caused by any third party (except those third parties sub-contracted by Tito to perform services related to Customer Content maintenance and back-up).
+## 4.  YOUR USE OF OUR WEBSITE AND SERVICES
 
-## 5.  Third Party Providers
+- 4.1.  Your use of our Services is governed by these Terms. We may at our absolute discretion refuse you access to the Services and/or cancel/terminate your registration or use without prior notice for any reason and you shall not be entitled to any compensation in respect of cancellation/termination of your use/registration.
 
-- 5.1 The Customer acknowledges that the Services and/or the Consultancy Services may enable or assist it to access the website content of, correspond with, and purchase products and services from, third parties via third-party websites and that it does so solely at its own risk.  Tito makes no representation or commitment and shall have no liability or obligation whatsoever in relation to the content or use of, or correspondence with, any such third-party website, or any transactions completed, and any contract entered into by the Customer, with any such third party.  Any contract entered into and any transaction completed via any third-party website is between the Customer and the relevant third party, and not Tito.  Tito recommends that the Customer refers to the third party’s website terms and conditions and privacy policy prior to using the relevant third-party website.  Tito does not endorse or approve any third-party website nor the content of any of the third-party website made available via the Services and/or the Consultancy Services.
+- 4.2.  You agree to use the Website only for lawful purposes and in a way which does not infringe the rights of any anyone else or restrict or inhibit anyone else's use and enjoyment of the Website.
 
-## 6.  Tito's Obligations
+- 4.3.  You must be 18 years of age or over to use the Website and/or our Services.
 
-- 6.1 Tito undertakes that the Services and, where relevant, the Consultancy Services, will be performed with reasonable skill and care.
+- 4.4.  Use of the Website and/or Services requires a connection to the internet and appropriate telecommunication infrastructure. We are not liable for any costs you may incur from use of such.
 
-- 6.2 The undertaking at Clause 6.1 shall not apply to the extent of any non-conformance which is caused by use of the Services contrary to Tito's instructions, or modification or alteration of the Services by any party other than Tito or Tito's duly authorised contractors or agents. If the Services do not conform with the foregoing undertaking, Tito will, at its expense, use all reasonable commercial endeavours to correct any such non-conformance promptly, or provide the Customer with an alternative means of accomplishing the desired performance. Such correction or substitution constitutes the Customer's sole and exclusive remedy for any breach of the undertaking set out in Clause 6.1.  
+- 4.5.  You agree to act in a responsible and legal manner when using the Website and Services. You shall comply with all applicable laws, regulations and rules and undertake not to use the Website and Services for any unlawful purpose, for the commission of any offence or crime under the laws of any jurisdiction to which access is obtained through the Website or in a manner which is likely to cause harm, offense or nuisance to any other Internet user.
 
-- 6.3 This Agreement shall not prevent Tito from entering into similar agreements with third parties, or from independently developing, using, selling or licensing documentation, products and/or services which are similar to those provided under this Agreement.
+- 4.6.  In consideration of the Fees, we agree to provide the Services to you in accordance with these Terms and we grant you a non-exclusive, non-transferable, non-sublicensable licence to use the Content for the performance of the Services (the "Licence").
 
-- 6.4 Tito warrants that it has and will maintain all necessary licences, consents, and permissions necessary for the performance of its obligations under this Agreement.
+- 4.7.  You shall not access, store, distribute or transmit any viruses, or any material during the course of your use of the Services that:
+ - 4.7.1.  is unlawful, harmful, threatening, defamatory, obscene, infringing, harassing or racially or ethnically offensive;
+ - 4.7.2.  facilitates illegal activity;
+ - 4.7.3.  depicts sexually explicit images;
+ - 4.7.4.  promotes unlawful violence;
+ - 4.7.5.  is discriminatory based on race, gender, colour, religious belief, sexual orientation, disability; or
+ - 4.7.6.  in a manner that is otherwise illegal or causes damage or injury to any person or property,
+and we reserve the right, without liability or prejudice to our other rights to you, to disable your access to any material that breaches the provisions of this section 4.7.
 
-## 7.  Customer's Obligations
+- 4.8.  We reserve the right to investigate and take appropriate legal action against anyone who, in our opinion, violates this section, including, without limitation, reporting you to appropriate law enforcement authorities.
 
-- 7.1 The Customer shall:
-  - 7.1.1 provide Tito with:
-    - (a) all necessary co-operation in relation to this Agreement; and
-    - (b) all necessary access to such information as may be required by Tito, in order to provide the Services, including but not limited to Customer Content, security access information, configuration services and, where relevant, Consultancy Services;
-  
-  - 7.1.2 comply with all applicable laws and regulations with respect to its activities under this Agreement;
+- 4.9.  We reserve the right to remove or suspend any material posted which is, in our sole opinion, in breach of this section, or which we suspect to be in breach of this section at our absolute discretion. We shall be entitled to terminate your Account or use for breach of this section.
 
-  - 7.1.3 carry out all other Customer responsibilities set out in this Agreement in a timely and efficient manner. In the event of any delays in the Customer's provision of such assistance as agreed by the parties, Tito may adjust any agreed timetable or delivery schedule as reasonably necessary;
+- 4.10. Save as expressly set out in these Terms or as otherwise permitted by law, you may not make any communication, display or performance to the public of the Content or otherwise disseminate, sell, give away, hire, lease, offer or expose for sale or distribute the Content.
 
-  - 7.1.4 ensure that the Authorised Users use the Services in accordance with the terms and conditions of this Agreement and shall be responsible for any Authorised User’s breach of this Agreement;
+- 4.11. You shall use all reasonable endeavours to prevent any unauthorised access to, or use of, the Services and/or the Content and, in the event of any such unauthorised access or use, promptly notify Tito.
 
-  - 7.1.5 obtain and shall maintain all necessary licences, consents, and permissions necessary for Tito, its contractors and agents to perform their obligations under this Agreement, including without limitation the Services;
+- 4.12. The Content and the Services are provided “as is” and Tito hereby disclaims all warranties, either express or implied, including but not limited to implied warranties/conditions of accuracy, merchantability and fitness for a particular purpose or any other warranties or conditions implied by applicable law, with respect to the Content and the Services. We do not warrant or undertake that the Services or any other materials provided pursuant to these Terms will meet your requirements or that they or their access or use will be uninterrupted, free from viruses, bug or error or completely secure. Except as expressly provided in these Terms, the entire risk as to the products, the Services and any other materials provided by Tito is with you, including for quality and performance and for accuracy or quality of any information transmitted, received or otherwise delivered via the Services.
 
-  - 7.1.6 ensure that its network and systems comply with the relevant specifications provided by Tito from time to time; and
+- 4.13. All information provided to you through the Services, Content or on the Website is provided only as of the date published, and may be superseded by subsequent events or for other reasons.
 
-  - 7.1.7 be solely responsible for procuring and maintaining its network connections and telecommunications links from its systems to Tito's data centres, and all problems, conditions, delays, delivery failures and all other loss or damage arising from or relating to the Customer's network connections or telecommunications links or caused by the internet.
+- 4.14. Information provided through the Services or on the Website is subject to change. We may amend, update, suspend or delete any information in the Content without notice at any time and at our sole discretion.
 
-## 8.  Charges and Payment
+## 5.  ACCOUNT
 
-- 8.1 The Customer agrees to pay the Fees in accordance with the payment terms set out in the Order Form and such Fees are exclusive of VAT and other applicable taxes.
+- 5.1.  In order to use the Services, you must register an account with us (an “Account”).  You are responsible for the security of your sign-in credentials and all activities that occur via your Account (including without limitation financial obligations). You agree to provide true and accurate information and to notify us in the event of any unauthorised access to your Account or any changes to your Account information. Limited access to certain features may be available to non-registered users but such access is still subject to these Terms.
+- 5.2.  By accepting these Terms and registering an Account you agree:
+ - 5.2.1.  to receive communications, including emails, text messages, push notifications, mail and telephone calls, that are related to the Services; and
+ - 5.2.2.  that any notices, agreements, disclosures or other communications that we send to you electronically are deemed to satisfy any legal communication requirements. 
 
-- 8.2 The Customer agrees to reimburse all Tito’s reasonable expenses in carrying out the Services and any Consultancy Services.
+- 5.3.  If there has been an unauthorised use of your password or Account, you shall notify us immediately. 
 
-- 8.3 Tito shall be under no obligation to provide the Services and/or Content, or, where relevant, the Consultancy Services, until the Customer has discharged the Fees.
+- 5.4.  You are responsible for keeping all information provided under this section current, complete, accurate and truthful. 
 
-- 8.4 Tito shall be under no obligation to refund any portion of the Fees, including in the event that this Agreement is terminated in accordance with Clause 12 due to the default of the Customer, unless otherwise provided for in this Agreement.
+- 5.5.  You agree to accept responsibility for all activities that occur with your permission or authorisation under your Account, username and/or password, or because you fail to maintain sufficient security over your Account, username and/or password. 
 
-## 9.  Intellectual Property 
+- 5.6.  We reserve the right to disable any Account, username or password, whether chosen by you or allocated by us, at any time, if in our reasonable opinion you have failed to comply with any of the provisions of these Terms.
 
-- 9.1 All Intellectual Property Rights in the Content, the Services and any Consultancy Services, are and shall remain the sole property of Tito and/or its licensors. Other than the Licence, nothing in this Agreement shall be construed as granting to the Customer any rights in any Intellectual Property Rights comprised in the Content, the Services and any Consultancy Services.
+## 6.  CUSTOMER CONTENT
 
-- 9.2 Tito warrants that it has the right to licence the Content on the terms of this Agreement and there are no agreements between it and any third party that conflict with this Agreement.
+- 6.1.  You shall own all right, title and interest in and to all of the data and content (including, but not limited to, Personal Data, files, images and text) inputted or provided by you in the course of availing of the Services (your "Customer Content") and you shall have sole responsibility for and hereby warrant the legality, reliability, integrity, accuracy and quality of your Customer Content.
 
-## 10. Confidentiality
-- 10.1  Each party may be given access to Confidential Information from the other party in order to perform its obligations under this Agreement.  A party's Confidential Information shall not be deemed to include information that:
+- 6.2.  You grant us a non-exclusive, royalty free licence to use your Customer Content for the purposes of providing the Services.
+- 6.3.  We shall follow our standard archiving procedures for Customer Content. In the event of any loss or damage to your Customer Content, your sole and exclusive remedy shall be for us to use reasonable commercial endeavours to restore the lost or damaged Customer Content from the latest back-up of such Customer Content maintained by us in accordance with our archiving procedure. We shall not be responsible for any loss, destruction, alteration or disclosure of Customer Content caused by any third party (except those third parties we sub-contract to perform services related to Customer Content maintenance and back-up).
 
-  - 10.1.1  is or becomes publicly known other than through any act or omission of the receiving party;
-  
-  - 10.1.2  was in the other party's lawful possession before the disclosure;
+## 7.  ORGANISING AN EVENT WITH TITO
 
-  - 10.1.3  is lawfully disclosed to the receiving party by a third party without restriction on disclosure;
+- 7.1.  Please follow the onscreen prompts to proceed to the event management interface page.  Using this event management interface page you can organise your events. This page constitutes our offer to provide our Services to you according to the specifications you select and input.
 
-  - 10.1.4  is independently developed by the receiving party, which independent development can be shown by written evidence; or
+- 7.2.  When you conclude setting up your event you will be presented with the option to "Go Live!".  Clicking "Go Live!" constitutes your acceptance of our offer referred to in section 7.1, at which point and on which date the contract between you and us will come into existence.  The contract will relate only to those Services as specified by you. 
 
-  - 10.1.5  is required to be disclosed by law, by any court of competent jurisdiction or by any regulatory or administrative body.
+- 7.3.  If we are unable to supply you with the Services for any reason, we will inform you of this by email and we will not process your acceptance. 
 
-  - 10.2  Each party shall hold the other's Confidential Information in confidence and, unless required by law, not make the other's Confidential Information available to any third party, or use the other's Confidential Information for any purpose other than the implementation of this Agreement.
+## 8.  FEES
 
-  - 10.3  Each party shall take all reasonable steps to ensure that the other's Confidential Information to which it has access is not disclosed or distributed by its employees or agents in violation of the terms of this Agreement.
+- 8.1.  In consideration of us providing our Services to you (other than for charity or free events, in which case the consideration shall consist solely of your specifications) you must pay fees calculated according to the pricing quoted on our Website at the time you click "Go Live!" in accordance with section 7.2 (the "Fees") as well as submitting your specifications.
 
-  - 10.4  Neither party shall be responsible for any loss, destruction, alteration or disclosure of Confidential Information caused by any third party.
+- 8.2.  Our pricing may change from time to time, but such changes will not affect the Fees for any events for which you have already clicked "Go Live!" in accordance with section 7.2.
 
-  - 10.5  The Customer acknowledges that details of the Services, and the results of any performance tests of the Services, constitute Tito's Confidential Information.
+- 8.3.  Our Fees are exclusive of VAT. Where VAT is payable in respect of some or all of the Services you must pay us such additional amounts in respect of VAT, at the applicable rate, at the same time as you pay the Fees.
 
-  - 10.6  This Clause 10 shall survive termination of this Agreement, however arising.
+## 9.  HOW TO RECEIVE PAYMENT AND PAY FEES
 
-## 11. Limitation of Liability and Indemnity 
+- 9.1.  In order to receive payment for events you organise through the Tito platform and in turn to pay for our Services, you must select one of our third party payment processors listed on https://ti.to/pricing (each a “Payment Processor”).  You may be required to agree to terms and conditions and the privacy policy of that Payment Processor. You acknowledge that in order to avail of any paid Services made available by Tito, you may be required to enter into an agreement with one of our Payment Processors, that we are not a party to those separate agreements and that we are not an affiliate of our Payment Processors.
+- 9.2.  You acknowledge and agree that we do not control our Payment Processor or its performance of payment processing services, and that we shall have no liability of any kind for any act or omission (including negligence) of our Payment Processor or any claim, demand, suit, damage, judgment, liability, loss, expense or cost incurred by you in relation to the performance or non-performance of payment processing services by our Payment Processor, other than to the extent to which any of the foregoing may arise from the gross negligence or wilful misconduct of Tito.
+- 9.3.  We shall send requests for payment to attendees in exchange for the tickets which you have contracted to sell to those attendees, such payment to be processed on your behalf by your chosen Payment Processor. Depending on the Payment Processor you select, our Fees shall be:
+ - 9.3.1.  deducted by the Payment Processor from the sums paid by attendees for those tickets and deposited to us, in which case you expressly agree that your chosen Payment Processor is authorised to deduct our Fees from any sums owed to you; or
+ - 9.3.2.  paid by you to us within 10 days of the issuing of the electronic invoice referred to in section 9.4.
 
-- 11.1  Subject to Clause 11.2, Tito’s liability in respect of any claim or series of related claims, howsoever arising, whether in contract, tort (including negligence) or otherwise arising out of or in connection with this Agreement shall not exceed the total Fees paid by the Customer in any calendar year in which such cause of action arises.
+- 9.4.  We will send you a monthly electronic invoice summarising any Fees accrued in the previous calendar month (the "Billing Period"). The Billing Period may change at our discretion.
 
-- 11.2  Tito shall not be liable, in contract, tort (including negligence) or for breach of statutory duty or in any other way for:
-  - 11.2.1  any economic losses (including loss of revenues, profits, contracts, data, business or anticipated savings); or
-  
-  - 11.2.2  any loss of goodwill or reputation; or
-  
-  - 11.2.3  any special or indirect or consequential losses, in any case, whether or not such losses were within the contemplation of the parties at the date of this Agreement, or were suffered or incurred by the Customer arising out of or in connection with any matter arising under this Agreement.
+## 10. THIRD PARTY PROVIDERS
 
-  - 11.3  Except as expressly and specifically provided in this Agreement, the Customer assumes sole responsibility for results obtained from the use of the Services and/or the Content by the Customer, and for conclusions drawn from such use. Tito shall have no liability for any damage caused by errors or omissions in any information, instructions or scripts provided to Tito by the Customer in connection with the Services and/or any Consultancy Services, or any actions taken by Tito at the Customer's direction.
+- 10.1. You acknowledge that the Website and the Services may enable or assist you to access the website content of, correspond with, and purchase products and services from, third parties via third-party websites and that you do so solely at your own risk. We make no representation or commitment and shall have no liability or obligation whatsoever in relation to the content or use of, or correspondence with, any such third-party website, or any transactions completed, and any contract entered into by you, with any such third party. Any contract entered into and any transaction completed via any third-party website is between you and the relevant third party, and not Tito. We recommend that you refer to the third party’s website terms and conditions and privacy policy prior to using the relevant third-party website. We do not endorse or approve any third-party website nor the content of any of the third-party websites made available via the Website or the Services.
 
-  - 11.4  If Tito’s performance of its obligations under this Agreement is prevented or delayed by any breach of this Agreement or negligent act or omission of the Customer, Tito shall not be liable for any costs, charges or losses sustained or incurred by the Customer that arise directly or indirectly from such prevention or delay.
+## 11. YOUR OBLIGATIONS
 
-  - 11.5  The Customer shall be liable to pay to Tito, all reasonable costs, charges or losses sustained or incurred by Tito that arise directly or indirectly from the Customer’s fraud, gross negligence, failure to perform or delay in the performance of any of its obligations under this Agreement, subject to Tito confirming such costs, charges and losses to the Customer in writing.
+- 11.1. If you avail of the Services or create an Account, you shall provide us with:
+  - 11.1.1. all necessary co-operation in relation to these Terms; and
+  - 11.1.2. all necessary access to such information as we may require in order to provide the Services, including but not limited to Customer Content, security access information and configuration services;
 
-  - 11.6  The Customer shall defend, indemnify and hold harmless Tito against claims, actions, proceedings, losses, damages, expenses and costs (including without limitation court costs and reasonable legal fees) arising out of or in connection with the Customer Content or the Customer's use of the Services, the Content and/or any Consultancy Services, provided that:
+- 11.2. comply with all applicable laws and regulations with respect to your activities under these Terms;
 
-    - 11.6.1  the Customer is given prompt notice of any such claim;
+- 11.3. carry out all of your responsibilities as set out in these Terms in a timely and efficient manner. In the event of any delays in your provision of such assistance, we may adjust any agreed timetable or delivery schedule as reasonably necessary;
 
-    - 11.6.2  Tito provides reasonable co-operation to the Customer in the defence and settlement of such claim, at the Customer's expense; and
+- 11.4. obtain and shall maintain all necessary licences, consents, and permissions necessary for Tito, its contractors and agents to perform their obligations under these Terms, including without limitation the Services;
 
-    - 11.6.3  the Customer is given sole authority to defend or settle the claim.
-  - 11.7  The Customer acknowledges that Tito is reliant on the Customer for direction as to the extent to which Tito is entitled to use and process the Customer Personal Data. Consequently, Tito will not be liable for and the Customer shall defend, indemnify and hold harmless Tito and its officers, directors, representatives, agents and employees against claims, actions, proceedings, losses, damages, expenses and costs (including without limitation court costs and reasonable legal fees) suffered or incurred by Tito or for which Tito may become liable in relation to or arising from use and processing of the Customer Personal Data, including and in particular such arising from:
+- 11.5. ensure that your network and systems comply with the relevant specifications provided by Tito from time to time; and
 
-    - 11.7.1  civil claims where a final award of damages has been granted or which are subject to a court approved settlement; and/or
-    
-    - 11.7.2  administrative fines imposed by a supervisory authority and approved by a court of competent jurisdiction, in each case, except to the extent that such arises due to the failure by Tito to comply with any of its obligations under this Agreement or for breach of the Data Protection Legislation.
+- 11.6. be solely responsible for procuring and maintaining your network connections and telecommunications links from your systems to our data centres, and all problems, conditions, delays, delivery failures and all other loss or damage arising from or relating to your network connections or telecommunications links or caused by the internet.
 
-## 12. Term and Termination 
+## 12. CONFIDENTIALITY
 
-- 12.1  In relation to the Services, this Agreement shall, unless otherwise terminated as provided in this Clause 12, commence on the Commencement Date and shall continue for the Initial Subscription Term and, thereafter, this Agreement shall be automatically renewed for successive periods as set out in the Order Form (each a Renewal Period), unless: 
+- 12.1. Pursuant to these Terms each party may be given information which is expressly marked as confidential or which is manifestly of a confidential nature ("Confidential Information").  A party's Confidential Information shall not be deemed to include information that:
+  - 12.1.1. is or becomes publicly known other than through any act or omission of the receiving party;
+  - 12.1.2. was in the other party's lawful possession before the disclosure;
+  - 12.1.3. is lawfully disclosed to the receiving party by a third party without restriction on disclosure;
+  - 12.1.4. is independently developed by the receiving party, which independent development can be shown by written evidence; or
+  - 12.1.5. is required to be disclosed by law, by any court of competent jurisdiction or by any regulatory or administrative body.
 
-  - 12.1.1  either party notifies the other party of termination, in writing, at least 90 days before the end of the Initial Subscription Term or any Renewal Period, in which case this Agreement shall terminate upon the expiry of the applicable Initial Subscription Term or Renewal Period; or
+- 12.2. Each party shall hold the other's Confidential Information in confidence and, unless required by law, not make the other's Confidential Information available to any third party, or use the other's Confidential Information for any purpose other than the implementation of these Terms.
 
-  - 12.1.2  otherwise terminated in accordance with the provisions of this Agreement, and the Initial Subscription Term together with any subsequent Renewal Periods shall constitute the Subscription Term.
+- 12.3. Each party shall take all reasonable steps to ensure that the other's Confidential Information to which it has access is not disclosed or distributed by its employees or agents in violation of these Terms.
 
-- 12.2  In relation to any Consultancy Services, this Agreement shall, unless otherwise terminated as provided in this Clause 12, commence on the date specified in the Order Form and shall continue for the Consultancy Term.
+- 12.4. Neither party shall be responsible for any loss, destruction, alteration or disclosure of Confidential Information caused by any third party.
 
-- 12.3  Without prejudice to any other rights or remedies to which the parties may be entitled, either party may terminate this Agreement without liability to the other if:
+- 12.5. This section 12 shall survive termination of these Terms, however arising.
 
-  - 12.3.1  the other party is in material breach of the terms of this Agreement and either (a) the breach cannot be remedied or (b) in the case of a breach that is capable of remedy, is not remedied by that party within thirty (30) days of being given notice to do so by the other party; or
-  
-  - 12.3.2  the other party ceases business, becomes insolvent or bankrupt or makes an arrangement for, or composition with, its creditors or makes an application to a court for protection from its creditors (otherwise than voluntarily for the purposes of a bona fide amalgamation or reconstruction) or if a receiver, examiner, administrator or administrative receiver is appointed over any part of that party’s business or if anything analogous occurs in relation to that party under the laws of another jurisdiction.
+## 13. INTELLECTUAL PROPERTY
 
-- 12.4  Without prejudice to Clause 12.3.1, Tito may terminate this Agreement immediately in the event that a Customer breaches the provisions of Clause 2.5 or Clause 10.
+- 13.1. All Intellectual Property Rights in the Website, the Content and the Services, are and shall remain the sole property of Tito and/or our licensors. Other than the Licence, nothing in this Agreement shall be construed as granting to you any rights in any Intellectual Property Rights comprised in the Website, the Content or the Services.
 
-- 12.5  Tito may terminate this Agreement upon 30 days notice to the Customer.
+- 13.2. We warrant that we have the right to licence the Content under these Terms and that there are no agreements between us and any third party that conflict with these Terms.
 
-- 12.6  On termination of this Agreement:
+## 14. DATA PROCESSING
 
-    - 12.6.1  the Licence will immediately cease to have effect and the Customer will no longer be able to receive the Services, the Content or any Consultancy Services;
-    
-    - 12.6.2  the Customer shall immediately pay to Tito all of Tito’s outstanding unpaid Fees in respect of all Services and/or any Consultancy Services supplied; 
-    
-    - 12.6.3  Tito shall, upon prior written request and at the option and cost of the Customer, destroy or return to the Customer all Customer Personal Data.  For the avoidance of doubt, the Customer shall not require Tito to return or destroy Customer Personal Data that Tito is required to retain under Data Protection Legislation, or by any regulatory authority or body of competent jurisdiction to which Tito is subject; and
+- 14.1. In respect of any personal data ("Personal Data", as defined in the General Data Protection Regulation (EU) (2016/679) and the Data Protection Act 2018  (together the "Data Protection Legislation")) that you provide to us and as set out [here](https://github.com/teamtito/tito-gdpr-compliance/blob/master/customer-personal-data.md) which we process under these Terms, you acknowledge that you shall be the controller and we shall be a processor.  
 
-    - 12.6.4  the Customer shall return all of Tito’s Confidential Information, equipment, documentation, information, materials, reports and data.  Until they have been returned or repossessed, the Customer shall be solely responsible for their safe keeping.
+- 14.2. As the controller, you are solely responsible for establishing the lawful basis for the processing of Personal Data by us under these Terms and will ensure that all necessary appropriate consents and notices are in place to enable lawful transfer of the Personal Data to us for the duration and purposes of these Terms.  
 
-- 12.7  Any termination of this Agreement pursuant to this Clause 12 shall be without prejudice to any other accrued rights or remedies a party may be entitled to hereunder or at law.
+- 14.3. To the extent that we process Personal Data pursuant to these Terms, we shall:
+  - 14.3.1. process the Personal Data in accordance with these Terms and your reasonable instructions (unless we are required to process the Personal Data pursuant to European Union or European Union Member State law in which case we shall notify you of that legal requirement before such transfer or access occurs or is permitted, unless that law prohibits such notification on important grounds of public interest); 
+  - 14.3.2. inform you if it comes to our attention that any instructions received from you in relation to the processing of the Personal Data infringe the provisions of Data Protection Legislation, but for clarity it is acknowledged that we shall have no obligation to review the lawfulness of any instruction received from you;
+  - 14.3.3. ensure that all personnel authorised to process the Personal Data are subject to appropriate confidentiality obligations in respect of the Personal Data; 
+  - 14.3.4. implement and at all times maintain appropriate technical and organisational measures to ensure the security of the Personal Data taking into account: (i) the state of the art; (ii) the costs of implementation; (iii) the nature, scope, context and purposes of the processing; and (iv) the risks posed to data subjects by the processing activities;
+  - 14.3.5. cooperate as reasonably requested by you (at your sole expense):
+    - 14.3.5.1. with your obligations to comply with any exercise of rights by a data subject under the Data Protection Legislation in respect of Personal Data, where the relevant data is held by Tito and is not readily available to you through the Services; and
+    - 14.3.5.2. where you conduct a data protection impact assessment;
+    - 14.3.6. notify you if Tito receives a request from a data subject to exercise his or her rights under the Data Protection Legislation.  Tito shall not respond directly to such a data subject unless you instruct us to do so; 
+    - 14.3.7. notify you without undue delay after becoming aware of any accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to the Personal Data; and
+    - 14.3.8. cooperate with the Office of the Data Protection Commissioner (or, to the extent you reasonably require, any other supervisory authority) in the performance of its tasks where required.
 
-## 13. Data Processing
+- 14.4. To the extent that we process Personal Data on your behalf, we will make available such information as is reasonably necessary to demonstrate compliance with the obligations of processors under Data Protection Legislation and, not more than once in any period of twelve months, and at your cost and on 14 days' prior written notice, allow for and contribute to an audit, including an inspection, by you for that purpose.
 
-- 13.1  In respect of any Customer Personal Data processed by Tito under this Agreement, the Parties acknowledge that the Customer shall be the controller and Tito shall be a processor.  
+- 14.5. Nothing in these Terms shall entitle you to access or inspect any records which contain information relating to any other customer of Tito and we shall be entitled to restrict or prevent access to any part of our premises which we considers in our sole discretion could compromise the security of any information or data relating to such other customers.  
 
-- 13.2  The Customer, as the controller, is solely responsible for establishing the lawful basis for the processing of Customer Personal Data by Tito under this Agreement and will ensure that it has all necessary appropriate consents and notices in place to enable lawful transfer of the Customer Personal Data to Tito for the duration and purposes of this Agreement.  
+- 14.6. By accepting these Terms you accept our use of the sub-processors listed [here] .
 
-- 13.3  To the extent that Tito processes Customer Personal Data pursuant to this Agreement, Tito shall:
+## 15. TERMINATION
 
-    - 13.3.1  process the Customer Personal Data in accordance with the terms of this Agreement and the reasonable instructions of the Customer (unless Tito is required to process the Customer Personal Data pursuant to European Union or European Union Member State law in which case Tito shall notify the Customer of that legal requirement before such transfer or access occurs or is permitted, unless that law prohibits such notification on important grounds of public interest); 
-    
-    - 13.3.2  inform the Customer if it comes to its attention that any instructions received from the Customer in relation to the processing of the Customer Personal Data infringes the provisions of Data Protection Legislation, but for clarity it is acknowledged that the Customer shall have no obligation to review the lawfulness of any instruction received from the Customer;
+- 15.1. Without limiting any of our other rights, we may suspend the performance of the Services, or terminate the Terms with you with immediate effect by giving written notice to you if:
+  - 15.1.1. you commit a material breach of any of these Terms and (if such a breach is remediable) fail to remedy that breach within [10]  days of you being notified in writing to do so;
+  - 15.1.2. you fail to pay any amount due under the Terms on the due date for payment;
+  - 15.1.3. you become insolvent or bankrupt or make an arrangement for, or composition with, your creditors or make an application to a court for protection from your creditors (otherwise than voluntarily for the purposes of a bona fide amalgamation or reconstruction) or if a receiver, examiner, administrator or administrative receiver is appointed over any part of that party’s business or if anything analogous occurs in relation to that party under the laws of another jurisdiction;
+  - 15.1.4. you suspend, threaten to suspend, cease or threaten to cease to carry on all or a substantial part of your business; or
+  - 15.1.5. your financial position deteriorates to such an extent that in our opinion your capability to adequately fulfil your obligations under these Terms has been placed in jeopardy.
 
-    - 13.3.3  ensure that all personnel authorised to process the Customer Personal Data are subject to appropriate confidentiality obligations in respect of the Customer Personal Data; 
+- 15.2. Termination of the Terms will not affect your or our rights and remedies that have accrued as at termination.
 
-    - 13.3.4  implement and at all times maintain appropriate technical and organisational measures in place to ensure the security of the Customer Personal Data taking into account: (i) the state of the art; (ii) the costs of implementation; (iii) the nature, scope, context and purposes of the processing; and (iv) the risks posed to data subjects by the processing activities;
+- 15.3. Any provision of the Terms that expressly or by implication is intended to come into or continue in force on or after termination will remain in full force and effect.
 
-    - 13.3.5  cooperate as reasonably requested by the Customer (at the Customer's sole expense):
+- 15.4. On termination of the Terms with you:
+  - 15.4.1. the Licence will immediately cease to have effect and you will no longer be able to receive the Services or the Content;
+  - 15.4.2. you shall immediately pay us all of our outstanding unpaid Fees in respect of all Services supplied;
+  - 15.4.3. we shall, upon prior written request and at your option and cost, destroy or return the Personal Data you have provided us.  For the avoidance of doubt, you shall not require us to return or destroy Personal Data that we are required to retain under Data Protection Legislation, or by any regulatory authority or body of competent jurisdiction to which Tito is subject;
+  - 15.4.4. we shall return all of our Confidential Information, equipment, documentation, information, materials, reports and data. Until they have been returned or repossessed, you shall be solely responsible for their safe keeping.
 
-      - (a) with the Customer's obligations to comply with any exercise of rights by a data subject under the Data Protection Legislation in respect of Customer Personal Data, where the relevant data is held by Tito and is not readily available to the Customer through the Services; and
-      - (b) where the Customer conducts a data protection impact assessment;
+- 15.5. Any termination of these Terms pursuant to this section 15 shall be without prejudice to any other accrued rights or remedies a party may be entitled to hereunder or at law.
 
-    - 13.3.6  notify the Customer if Tito receives a request from a data subject to exercise his or her rights under the Data Protection Legislation.  Tito shall not respond directly to such data subject unless it is instructed to do so by the Customer; 
+## 16. LIABILITY
 
-    - 13.3.7  notify the Customer without undue delay after becoming aware of any Security Breach; and
+- 16.1. Subject to Clause 16.2, our liability in respect of any claim or series of related claims, howsoever arising, whether in contract, tort (including negligence) or otherwise arising out of or in connection with these Terms shall not exceed:
+  - 16.1.1. if you have run an event or events with paid tickets, the total Fees paid by you in the six month period immediately preceding the circumstances giving rise to your claim; or
+  - 16.1.2. if you have not run an event or events with paid tickets, €200.
 
-    - 13.3.8  cooperate with the Office of the Data Protection Commissioner (or, to the extent reasonably required by the Customer, any other supervisory authority) in the performance of its tasks where required.
+- 16.2. We shall not be liable, in contract, tort (including negligence) or for breach of statutory duty or in any other way for:
+  - 16.2.1. any economic losses (including loss of revenues, profits, contracts, data, business or anticipated savings); 
+  - 16.2.2. any loss of goodwill or reputation; or
+  - 16.2.3. any special or indirect or consequential losses, in any case, whether or not such losses were within contemplation at the date you accepted our Terms, or were suffered or incurred by you arising out of or in connection with any matter arising under these Terms.
 
-## 14. International Transfers
+- 16.3. Except as expressly and specifically provided in these Terms, you assume sole responsibility for results obtained from the use of the Services and/or the Content, and for conclusions drawn from such use. We shall have no liability for any damage caused by errors or omissions in any information, instructions or scripts provided to us by you in connection with the Services or any actions taken by us at your direction.
 
-- 14.1  The Customer hereby agrees to the transfer of Customer Personal Data processed under this Agreement outside of the European Union PROVIDED that in effecting any international transfer of Customer Personal Data, Tito shall ensure that:
+- 16.4. If our performance of our obligations under these Terms is prevented or delayed by any breach of these Terms or by your negligent act or omission, we shall not be liable for any costs, charges or losses sustained or incurred by you that arise directly or indirectly from such prevention or delay.
 
-  - 14.1.1  it has provided appropriate safeguards in relation to the transfer which may include Privacy Shield certification (in the case of US transferees) or EU standard contractual clauses. The Customer hereby appoints Tito as its agent for the purpose of entering into any EU standard contractual clauses in the context of providing the Services; and
-  
-  - 14.1.2  data subjects continue to have enforceable rights and effective legal remedies following the transfer.
+- 16.5. You shall be liable to pay to us all reasonable costs, charges or losses sustained or incurred by us that arise directly or indirectly from your fraud, gross negligence, failure to perform or delay in the performance of any of your, subject to our confirming such costs, charges and losses to you in writing.
 
-## 15. Sub-Contracting
+- 16.6. You shall defend, indemnify and hold us harmless against claims, actions, proceedings, losses, damages, expenses and costs (including without limitation court costs and reasonable legal fees) arising out of or in connection with the Customer Content or your use of the Services and the Content, provided that:
+  - 16.6.1. you are given prompt notice of any such claim;
+  - 16.6.2. we provide reasonable co-operation to you in the defence and settlement of such claim, at your expense; and
+  - 16.6.3. you are given sole authority to defend or settle the claim.
 
-- 15.1  The Customer hereby authorises Tito to use third parties ("sub-processors") to provide the Services provided:
+- 16.7. You acknowledge that we are reliant on you for direction as to the extent to which we are entitled to use and process the Personal Data. Consequently, we will not be liable for and you shall defend, indemnify and hold us and our officers, directors, representatives, agents and employees harmless against claims, actions, proceedings, losses, damages, expenses and costs (including without limitation court costs and reasonable legal fees) suffered or incurred by us or for which we may become liable in relation to or arising from use and processing of the Personal Data, including and in particular such arising from:
 
-  - 15.1.1  Tito shall notify the Customer in advance of any proposed use of a sub-processor, and any replacement or addition to them and the Customer shall have the right to object on reasonable grounds to the use of or change to any sub-processor within 14 days of Tito notifying the Customer of the change.  In the event of the Customer raising such an objection, Tito may terminate part or all of the Agreement on 14 days' notice;
+- 16.8. civil claims where a final award of damages has been granted or which are subject to a court approved settlement; and/or
 
-  - 15.1.2  in engaging any sub-processor Tito agrees adequate data protection arrangements that are in all material respects similar to those set out in this Agreement; and 
+- 16.9. administrative fines imposed by a supervisory authority and approved by a court of competent jurisdiction, in each case, except to the extent that such arises due to the failure by Tito to comply with any of its obligations under this Agreement or for breach of the Data Protection Legislation.
 
-  - 15.1.3  Tito shall at all times remain liable for the failure of any sub-processor to fulfil its data protection obligations as if the failure were that of Tito.
+- 16.10.  For the avoidance of doubt, you acknowledge that we have no control over and are in no way responsible or liable for any event you or another organises and/or promotes through our Website and/or Services.  We do not guarantee the quality, safety, accuracy or legality of any event organised and/or promoted through our Website and/or Services.  
 
-- 15.2  For the purpose of this Agreement, the Customer consents to the use of the sub-processors listed at Schedule 3.
+## 17. NO WAIVER
 
-## 16. Audit
+- 17.1. Our failure to exercise or enforce any right or provision of these Terms shall not operate as a waiver of such right or provision.
 
-  - 16.1  To the extent that Tito processes Customer Personal Data on the Customer's behalf, Tito will make available such information as is reasonably necessary to demonstrate compliance with the obligations of processors under the Data Protection Legislation and, not more than once in any period of twelve months during the Subscription Term, and at the cost of and on 14 days' prior written notice from the Customer during Normal Business Hours, allow for and contribute to audits, including inspections, by the Customer for that purpose.
+## 18. SEVERABILITY
 
-  - 16.2  Nothing in this Agreement shall entitle the Customer to access or inspect any records which contain information relating to any other customer of Tito and Tito shall be entitled to restrict or prevent access to any part of its premises which it considers in its sole discretion could compromise the security of any information or data relating to such other customers.  
+- 18.1. If any provision of these Terms is judged to be invalid, illegal or unenforceable, this shall not affect or impact the continuation in full force and effect of the remainder of the provisions.
 
-## 17. General
+## 19. ASSIGNMENT AND SUB-LICENSING
 
-- 17.1  Further assurance: Each party shall do, sign, execute and deliver all deeds, documents, assurances, acts, instruments and things reasonably required of it by notice from the other party to carry out and give full effect to the Agreement and the rights and obligations of the parties under it. The parties shall use their respective reasonable endeavours to procure, so far as they are able that any third parties shall, execute and perform all such further deeds, documents, assurances, acts, instruments and things as any of the parties may reasonably require, by notice in writing to the other to carry the provisions of the Agreement into effect.
+- 19.1. You may not assign, novate, sub-contract or otherwise transfer part or all of these Terms or any rights or obligations under these Terms without our prior written consent.
 
-- 17.2  Assignment and sub-licensing: The Customer shall have no right to sub-licence, assign or otherwise transfer the Agreement or any rights and obligations under the Agreement whether in whole or in part without the prior written consent of Tito. 
+- 19.2. We may at any time assign, transfer, charge, sub-contract or deal in any other manner with all or any of our rights or obligations under these Terms.
 
-Tito may at any time assign, transfer, charge, sub-contract or deal in any other manner with all or any of its rights or obligations under this Agreement.
+## 20. NO PARTNERSHIP OR AGENCY
 
-- 17.3  Notices: All notices which are required to be given under the Agreement shall be in writing and shall be sent to the address of the recipient as set out in the Agreement or such other address as the recipient may designate by notice given in accordance with the Agreement. Any such notice may be delivered personally or by registered post and shall be deemed to have been served: if by hand, when delivered; and if by registered post, 48 hours after posting.
+- 20.1. Nothing in these Terms shall create or be deemed to create a partnership, joint venture agency or employment relationship of any kind between you and Tito.
 
-- 17.4  Entire agreement: The Agreement, and the documents referred to in it, constitutes the entire agreement and understanding of the parties and supersedes any previous agreement between the parties relating to the subject matter of the Agreement. Any terms and conditions contained in any documents submitted by the Customer in connection with this Agreement shall be of no force and effect, and Tito’s subsequent provision of the Content, the Services, or any Consultancy Services shall not constitute acceptance of such terms.  Each of the parties acknowledges and agrees that in entering into the Agreement, and the documents referred to in it, it does not rely on, and shall have no remedy in respect of, any statement, representation, warranty, understanding, promise or assurance (whether negligently or innocently made) of any person (whether party to the Agreement or not) other than as expressly set out in the Agreement as a warranty.  
+- 20.2. We shall not be liable for delay or failure to perform any of our obligations under these Terms where and to the extent that such delay or failure results from any circumstances beyond our reasonable control.
 
-- 17.5  Force majeure: Neither party shall be liable to the other for any delay or non-performance of its obligations under the Agreement arising from any cause beyond its control including without limitation:
+- 20.3. Unless otherwise stated in these Terms, notices to be given to either party shall be in writing and shall be delivered by hand, electronic mail (other than, if you are sending a notice to us for the purpose of legal process) or by pre-paid post to you at the address you supplied to us or to us at our registered office.
 
-  - 17.5.1  acts of God, flood, drought, earthquake or other natural disaster;
-  - 17.5.2  epidemic or pandemic;
-  - 17.5.3  terrorist attack, civil war, civil commotion or riots, war, threat of or preparation for war, armed conflict, imposition of sanctions, embargo, or breaking off of diplomatic relations;
-  - 17.5.4  nuclear, chemical or biological contamination or sonic boom;
-  - 17.5.5  any law or any action taken by a government or public authority, including without limitation imposing an export or import restriction, quota or prohibition, or failing to grant a necessary licence or consent;
-  - 17.5.6  collapse of buildings, fire, explosion or accident; or
-  - 17.5.7  interruption or failure of utility service, or any other act or omission whether similar to the foregoing or not. In the event that the same continues for a period of more than 60 days either party shall have the right to terminate the Agreement immediately upon written notice.
+## 21. FORCE MAJEURE
 
-- 17.6  Modification: No addition to, or modification of, any provision of the Agreement shall be binding on the parties unless made by a written instrument and signed by a duly authorised representative of each of the parties. 
+- 21.1. We shall not be liable to for any delay or non-performance of its obligations under these Terms arising from any cause beyond our control including without limitation:
+  - 21.1.1. acts of God, flood, drought, earthquake or other natural disaster;
+  - 21.1.2. epidemic or pandemic;
+  - 21.1.3. terrorist attack, civil war, civil commotion or riots, war, threat of or preparation for war, armed conflict, imposition of sanctions, embargo, or breaking off of diplomatic relations;
+  - 21.1.4. nuclear, chemical or biological contamination or sonic boom;
+  - 21.1.5. any law or any action taken by a government or public authority, including without limitation imposing an export or import restriction, quota or prohibition, or failing to grant a necessary licence or consent;
+  - 21.1.6. collapse of buildings, fire, explosion or accident; or
+  - 21.1.7. interruption or failure of utility service, or any other act or omission whether similar to the foregoing or not.
 
-- 17.7  No waiver: The failure to exercise or delay in exercising a right or remedy under the Agreement shall not constitute a waiver of the right or remedy or a waiver of any other rights or remedies and no single or partial exercise of any right or remedy under the Agreement shall prevent any further exercise of the right or remedy or the exercise of any other right or remedy. The rights and remedies contained in the Agreement are cumulative and not exclusive of any rights or remedies provided by law.
+## 22. PUBLICITY AND ANNOUNCEMENTS (NO FAKE NEWS)
 
-- 17.8  Severability: If any provision of the Agreement is judged to be invalid, illegal or unenforceable, this shall not affect or impact the continuation in full force and effect of the remainder of the provisions.
+- 22.1. You shall not make, or cause to be made at any time any statement that you know to be factually untrue which directly or indirectly disparages, is inimical, critical or derogatory to or damages the reputation of Tito, whether such statement is in relation to the Services or otherwise.
 
-- 17.9  Conflict: If there is an inconsistency between any of the provisions in the main body of this Agreement and the attached schedules, other attachments or any other document referred to in this Agreement, the provisions in the main body of this Agreement shall prevail.
+## 23. GOVERNING LAW
+- 23.1. These Terms shall be governed by and construed in accordance with Irish law and you agree to submit to the exclusive jurisdiction of the Irish courts.
 
-- 17.10 No partnership or agency: Nothing in this Agreement is intended to or shall operate to create a partnership between the parties, or authorise either party to act as agent for the other, and neither party shall have the authority to act in the name or on behalf of or otherwise to bind the other in any way (including, but not limited to, the making of any representation or warranty, the assumption of any obligation or liability and the exercise of any right or power).
+## 24. ENTIRE AGREEMENT
 
-- 17.11 Publicity and Announcements: Without Tito’s prior written consent, the Customer shall not issue nor cause the issuance of any public statement in any way concerning Tito, the Services or any Consultancy Services.  Tito shall have the right to identify the Customer as a customer to which it is providing the Services and/or any Consultancy Services.    
-
-- 17.12 Counterparts: The Agreement may be executed in any number of counterparts each of which when executed and delivered shall be an original but all the counterparts together shall constitute one and the same instrument.
-
-- 17.13 Third party rights: No term of the Agreement is intended to confer a benefit on or to be enforceable by, any person who is not a party to the Agreement.
-
-- 17.14 Governing law and jurisdiction: This Agreement shall be exclusively governed by and construed in accordance with Irish law and the Irish courts shall have exclusive jurisdiction over all disputes arising pursuant to this Agreement or in connection with its subject matter.
-
-- 17.15 The provisions of this Agreement that, by their nature, are intended to survive expiration and/or termination of this Agreement shall survive, including, without limitation, Sections 10, 11, and 17.
+- 24.1. These Terms and any notices raised by us on our Website from time to time constitute the entire agreement between you and Tito regarding the use of this Website and our Services.
