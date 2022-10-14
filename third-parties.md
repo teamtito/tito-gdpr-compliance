@@ -25,6 +25,8 @@ Intercom facilitates a better communication cycle between users and Tito, and al
 https://www.stripe.com
 _1 Grand Canal Street Lower, Grand Canal Dock, Dublin, D02 H210_
 
+We use Stripe for billing. Stripe stores customer information, names, emails and details of fees on any payments processed by Stripe, as well as individual order details such as references and ticket types.
+
 ## Other Services below may store some personal information
 
 ### PayPal
