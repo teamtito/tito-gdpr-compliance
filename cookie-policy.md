@@ -1,20 +1,12 @@
 # Cookie Policy
 
-## Marketing page (https://ti.to/home)
+## Marketing pages (https://ti.to/home https://vi.to/home)
 
-Tito’s marketing page sets the following cookies:
+Tito’s marketing pages set the following cookies:
 
 ### Tito Application Cookies
 
 These cookies are set by the application software that we use to host the site (Ruby on Rails and Phusion Passenger). These cookies do not store any data that is tracked.
-
-### Google Analytics
-
-Google Analytics cookies are used to measure visitors to the site.
-
-### Hubspot
-
-Hubspot is used to track folks who view our marketing pages and subsequently become customers, in order to measure the effectiveness of our marketing campaigns.
 
 ## Tito Event Pages
 

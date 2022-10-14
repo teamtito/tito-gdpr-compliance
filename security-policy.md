@@ -2,7 +2,7 @@
 
 ## General Web Security
 
-All Tito services that store data are hosted by Amazon Web Services, in Ireland.
+All Tito services that store data are hosted by Amazon Web Services, in Ireland, in a dedicated VPC. All of our CI, logging and internal observability software runs inside these VPCs, or are otherwise isolated in a separate VPC.
 
 All applications use SSL for HTTP transport, without support for compromised cryptographic mechanisms.
 
